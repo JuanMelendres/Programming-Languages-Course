@@ -4,6 +4,8 @@ Intermediate level course in computing. Students will know and apply different p
 Course objective:
 ================= 
 
-By the end of the course, students will know 1) the elements that form a programming language in order to learn new languages; 2) the will have a general overview about different programming styles and will know and apply some of those representative programming languages.
+By the end of the course, students will know: 
+1) the elements that form a programming language in order to learn new languages; 
+2) the will have a general overview about different programming styles and will know and apply some of those representative programming languages.
 
 This repository is for the Programming Languages Course course: Homeworks, Activities and more.
