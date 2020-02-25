@@ -1,4 +1,4 @@
-# Claas Activity 01
+# Class Homework 01
 #### Juan Antonio Melendres Villa 		A00369017 ####
 
 Answer the following questions:
