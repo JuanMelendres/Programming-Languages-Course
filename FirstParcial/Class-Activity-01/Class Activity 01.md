@@ -1,4 +1,4 @@
-# Claas Activity 01
+# Class Activity 01
 #### Juan Antonio Melendres Villa 		A00369017 ####
 Follow the instructions in the pdf Exercise_1 and upload your results here
 
