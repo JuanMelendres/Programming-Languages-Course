@@ -7,15 +7,15 @@ Answer the following questions:
 
 	1.1 (a+b)^2 forma expandida aa + 2ab + bb:
 
-		![Test Image 1](syntax_tree-1.png)
+	![Test Image 1](syntax_tree-1.png)
 		
 	1.2 (a+b)^3 forma expandida aaa + 3aab + 3abb + bbb:
 
-		![Test Image 1](syntax_tree-2.png)
+	![Test Image 1](syntax_tree-2.png)
 
 	1.3 Área del trapecio h(a+b/2):
 
-		![Test Image 1](syntax_tree.png)
+	![Test Image 1](syntax_tree.png)
 
 
 2. Diseñar el Autómata Finito y la Gramática Regular para generar/aceptar los identificadores en JAVA
