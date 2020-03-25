@@ -211,7 +211,9 @@ h) feet->cm: (define (feetCm ft) (inchCm (feetInch ft)))
 when n is (a) 500, (b) 2800, and (c) 15000?
 
 a) 500 = 0.04
+
 b) 2800 = 0.045
+
 c) 15000 = 0.06
 
 2.What is the value of
@@ -229,7 +231,9 @@ c) 15000 = 0.06
 when n is (a) 500, (b) 2800, and (c) 15000?
 
 a) 500 = 40.0
+
 b) 2800 = 121.0
+
 c) 15000 = 495.0
 
 ## Part 6 - 58
