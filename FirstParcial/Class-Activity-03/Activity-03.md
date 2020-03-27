@@ -1,6 +1,6 @@
 # Class Activity 03
 
-#### Juan Antonio Melendres Villa 		A00369017 ####
+## Juan Antonio Melendres Villa A00369017
 
 ## Part one - page 22
 
