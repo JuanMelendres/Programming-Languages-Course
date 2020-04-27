@@ -82,11 +82,7 @@
   (cond
     [(null? l) 0]
     [(not (list?  l)) 1 ]
-    [else
-      (+
-	(count (car l))
-	(count (cdr l)))
-    ]
+    [else (+ (count (car l)) (count (cdr l)))]
   )
 )
 
