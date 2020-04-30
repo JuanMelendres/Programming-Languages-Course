@@ -1,2 +1,3 @@
 echo .DS_Store >> .gitignore
 .DS_Store
+SecondParcial/Scheme/scheme_context.scm
