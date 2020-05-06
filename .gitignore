@@ -1,3 +1,7 @@
 echo .DS_Store >> .gitignore
 .DS_Store
 SecondParcial/Scheme/scheme_context.scm
+/FinalParcial/Java/nbproject/private/
+/FinalParcial/Java/build/
+/FinalParcial/Java/dist/
+/FinalParcial/FinalProject/nbproject/private/
