@@ -8,15 +8,15 @@
 
 ; Numero de elementos en una lista (1 2 3) => 3
 (define (length lista)
-      (cond
-          [(and (not (null? lista))) (
-              cond 
-              [(list? (car lista)) (+ (length (car lista)) (length (cdr lista)))]
-              [#t (+ 1 (length (cdr lista)))]
-          )]
-          [#t 0]
-      )
-  )
+    (cond
+        [(and (not (null? lista))) 
+            (cond 
+                [(list? (car lista)) (+ (length (car lista)) (length (cdr lista)))]
+                [#t (+ 1 (length (cdr lista)))]
+        )]
+        [#t 0]
+    )
+)
 
 ; (modulo a b). Valida que la entrada sea numérica. Si un valor no es numérico, 
 ; imprime "error-a-no-es-un-número" o "error-b-no-es-un-número". Valida que b no sea cero. 
