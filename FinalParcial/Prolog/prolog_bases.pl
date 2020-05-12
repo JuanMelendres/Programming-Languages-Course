@@ -161,6 +161,16 @@ abuelos(X, Z) :-
     padres(X, Y),
     padres(Y, Z).
 
+% mismo valor 
+
 hamanos(Y1, Y2) :-
     padres(X, Y1),
-    padres(X, Y2).
+    padres(X, Y2),
+    Y1 = Y2.
+
+% diferente valor
+
+hamanos(Y1, Y2) :-
+    padres(X, Y1),
+    padres(X, Y2),
+    Y1 \= Y2.
