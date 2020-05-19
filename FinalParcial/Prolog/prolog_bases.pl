@@ -174,3 +174,10 @@ hamanos(Y1, Y2) :-
     padres(X, Y1),
     padres(X, Y2),
     Y1 \= Y2.
+
+predecessor(X, Z):- padres(X, Z).
+
+% predecessor(X, jim) or predecessor(bob, jim)
+predecessor(X, Z):-
+    padres(X, Y).
+    predecessor(Y, Z).
